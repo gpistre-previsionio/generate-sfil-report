@@ -1,6 +1,6 @@
 name: generate-sfil-report
 label: Generate SFIL report
-description: This component is a very basic one that does nothing useful but meet all the requirements for a custom components
+description: Generates a model performance report, used to send a report at each new model training
 inputs:
 - name: src
   type: String
